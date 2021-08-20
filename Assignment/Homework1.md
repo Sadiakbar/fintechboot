@@ -21,6 +21,15 @@ Started with only $5.4 million in seed funding from Equitable Bank, Oakwest Corp
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+Borrowell is considered as one of the major online lenders present in Canada today, and it offers free credit scores, education and weekly credit monitoring to its subscribers. It also offers innovative digital tools like personalized credit coaching and with the help of 'Molly', its AI-powered credit coach it presents recommendations and personalized tips that may help one understand and improve their credit and financial standing; a feature that is not offered by its competitors such as Mogo Finance Technology and Credit Karma. 
+
+![Screenshot 2021-08-20 013635](https://user-images.githubusercontent.com/87621135/130184947-f929839e-0fba-454e-8617-09e03fe63eeb.jpg)
+
+Borrowell uses automated network and data to offer products such as loans, savings accounts, and other financial tools that are tailored to the unique goals and credit profile of each customer. Unlike payday lenders who target people with poor credit, Borrowell serves good credit Canadians who may be seeking better alternatives to higher interest credit cards and inconvenient bank loans. By offering low rates, and fast, fair and friendly service, Borrowell has focused on creating a loan that aligns our interests with our customers’. The global digital lending platform market size was valued at USD 4.87 billion in 2020 and is expected to expand at a compound annual growth rate (CAGR) of 24.0% from 2021 to 2028.
+
+Borrowell uses 27 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. Borrowell is actively using 13 technologies for its website, according to BuiltWith. These include Viewport Meta, iPhone / Mobile Compatible, and Google Font API. 
+
+
 ## Landscape:
 
 * What domain of the financial industry is the company in?
