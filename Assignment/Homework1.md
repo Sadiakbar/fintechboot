@@ -1,23 +1,15 @@
-# BORROWELL 
-
-
-
-
-
+# BORROWELL ![eduupkgbpa7l0pzb3z21 (1)](https://user-images.githubusercontent.com/87621135/130178768-1fbf4a32-ff7b-4aba-8d99-ef0b722fb9a1.png)
 
 
 ## Overview and Origin
 
-* Name of company
+One of Canada's leading FINTECH organization to offer free credit scores and credit reports, Borrowell, was founded by Andrew Graham and Eva Wong, and was incorporated in 2014. Over the years the founders have successfully built a diverse team of financial and technology experts, with the aim to help the people of Canada make better financial decisions and serve as an alternative institution that provides financial services and products such as loans, mortgages etc. at lower interest rates. 
 
-* When was the company incorporated?
+Started with only $5.4 million in seed funding from Equitable Bank, Oakwest Corporation Limited, as well as notable individual investors Roger Martin, John Bitove, and Dan Debow, as of today Borrowell has raised a total of $117.2M in funding over 7 rounds. Their latest funding was raised in March, 2021, from a Series C round. Borrowell is funded by 25 investors; which includes Silicon Valley Bank, White Star Capital, BDC Capital and Kensington Capital Partners Limited are the most recent investors. 
 
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
+<p align="center">
+  ![Screenshot 2021-08-20 003905](https://user-images.githubusercontent.com/87621135/130180082-14be8576-441a-44a5-bebc-dc9e579a8323.jpg)
+</p>
 
 ## Business Activities:
 
