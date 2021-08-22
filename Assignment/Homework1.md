@@ -106,26 +106,44 @@ One can argue that Borrowell is just as secure as the traditional bank. Still, g
 
 ## References
 
-<sup>[1](#myfootnote1)</sup>
-
 <a name="myfootnote1">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+
 <a name="myfootnote2">2</a>: Borrowell.com. 2021. Borrowell Partners with Equifax Canada. https://borrowell.com/blog/borrowell-equifax-partner-credit-scores-for-free <br/>
+
 <a name="myfootnote3">3</a>: Surman, R., 2021. What is the Average Canadian Credit Score?. https://borrowell.com/blog/highest-canadian-credit-score-study <br/>
+
 <a name="myfootnote4">4</a>: 2021. Study: Credit Scores and Missed Payment Rates Across Canada. https://borrowell.com/blog/covid-19-credit-scores-missed-bill-payments-canada  <br/>
+
 <a name="myfootnote5">5</a>: Surman, R., 2019. Introducing The Credit Coach. https://borrowell.com/blog/introducing-the-credit-coach <br/>
+
 <a name="myfootnote6">6</a>: Marr, B., 2021. The 7 Biggest Technology Trends To Disrupt Banking & Financial Services In 2020. Forbes.https://www.forbes.com/sites/bernardmarr/2019/11/08/the-7-biggest-technology-trends-to-disrupt-banking--financial-services-in-2020/?sh=2784b7142c42 <br/>
+
 <a name="myfootnote7">7</a>: The Financial Brand - Banking Trends, Analysis & Insights. 2021. Six Major Trends in Lending for Financial Marketers in 2019. https://thefinancialbrand.com/79256/lending-borrowing-auto-personal-loans-mortgages-credit-cards/ <br/>
+
 <a name="myfootnote8">8</a>: Collection Hub. 2021. 6 Trends That Are Transforming Credit Risk Management. https://collectionhub.com/6-trends-that-are-transforming-credit-risk-management/ <br/>
+
 <a name="myfootnote9">9</a>: 2021. 5 Trends Transforming Commerce.https://usa.visa.com/visa-everywhere/innovation/5-digital-payment-trends-transforming commerce.html. <br/>
+
 <a name="myfootnote10">10</a>: Eurodns.com. 2021. 10 popular domains for the finance industry - EuroDNS. https://www.eurodns.com/blog/10-popular-domains-finance-industry <br/>
+
 <a name="myfootnote11">11</a>: Voigt, K., 2021. What Is Blockchain and How Does It Work? - NerdWallet.  https://www.nerdwallet.com/article/investing/blockchain <br/>
+
 <a name="myfootnote12">12</a>: 2021. Cyber and Technology | Nsure Insurance.https://nsureinsurance.co.uk/services/cyber-and-technology/ <br/>
+
 <a name="myfootnote13">13</a>: 2021. Borrowell - White Star Capital.https://whitestarcapital.com/companies/borrowell/ <br/>
+
 <a name="myfootnote14">14</a>: Iruretagoyena, A. and Parrish, P., 2021. Borrowell: Why We Invested — IMPACT ENGINE. https://www.theimpactengine.com/bloghome/2021/2/28/borrowell-why-we-invested <br/>
+
 <a name="myfootnote15">15</a>: Smalley, K., 2020. Borrowell Vs Mogo Vs Credit Karma: What's The Difference?. https://borrowell.com/blog/borrowell-vs-mogo-vs-credit-karma-whats-the-difference  <br/>
+
 <a name="myfootnote16">16</a>: Szepel, M., 2021. What Defines Success in the Fintech World?. https://www.netguru.com/blog/success-in-the-fintech-world <br/>
+
 <a name="myfootnote17">17</a>: 2021. What are FinTech KPIs. https://www.vapulus.com/en/what-are-fintech-kpis/ <br/>
+
 <a name="myfootnote18">18</a>: Craft. n.d.https://craft.co/banco solidario/competitors?competitors=borrowell%2Cmogo%2Camigo-loans%2Cpioneer-credit%2Ccredit-karma <br/>
+
 <a name="myfootnote19">19</a>: 2021. About Mogo | Mogo.https://www.mogo.ca/about-mogo <br/>
+
 <a name="myfootnote20">20</a>: 2021. About | Pioneer Credit. https://pioneercredit.com.au/about-us <br/>
+
 <a name="myfootnote21">21</a>: 2021. Press Room | Amigo Loans. https://www.amigoloans.co.uk/press-room <br/>
