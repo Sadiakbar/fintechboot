@@ -129,4 +129,15 @@ One can argue that Borrowell is just as secure as the traditional bank. Still, g
 * 2021. Press Room | Amigo Loans. https://www.amigoloans.co.uk/press-room
 
 <sup>[1](#myfootnote1)</sup>
- <a name="myfootnote1">1</a>: Footnote content goes here <br/>
+
+ <a name="myfootnote1">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote2">1</a>: Borrowell.com. 2021. Borrowell Partners with Equifax Canada. https://borrowell.com/blog/borrowell-equifax-partner-credit-scores-for-free <br/>
+ <a name="myfootnote3">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote4">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote5">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote6">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote7">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote8">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote9">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ <a name="myfootnote10">1</a>: Mirynech, D., 2018. Borrowell. [ebook] London. https://www.ivey.uwo.ca/media/3784133/borrowell-profile.pdf <br/>
+ 
