@@ -1,13 +1,13 @@
 # BORROWELL ![eduupkgbpa7l0pzb3z21 (1)](https://user-images.githubusercontent.com/87621135/130178768-1fbf4a32-ff7b-4aba-8d99-ef0b722fb9a1.png)
 
-Borrowell is a Canadian-origin fintech company operating as a marketplace platform for online lending. It attracts customers through free credit scores and uses their credit data to provide customized recommendations for financial products.
+Borrowell is a Canadian-origin fintech company operating as a marketplace platform for online lending. It attracts customers through free credit scores and uses their credit data to provide customized recommendations for financial products. <sup>[1](#myfootnote1)</sup>
 
 
 ## Overview and Origin
 
 One of Canada's leading FINTECH organizations to offer free credit scores and credit reports, Borrowell, was founded and incorporated by Andrew Graham and Eva Wong in 2014. Over the years, the founders have successfully built a diverse team of financial and technology experts to help Canadians make better financial decisions and serve as an alternative institution that provides financial services and products such as loans, mortgages, etc., at lower interest rates. 
 
-Started with only $5.4 million in seed funding from Equitable Bank, Oakwest Corporation Limited, and notable individual investors Roger Martin, John Bitove, and Dan Debow, Borrowell has raised a total of $117.2M in funding over seven rounds. Their latest funding was raised in March 2021, from a Series C round. Borrowell is funded by 25 investors, which includes Silicon Valley Bank, White Star Capital, BDC Capital, and Kensington Capital Partners Limited are the most recent investors.
+Started with only $5.4 million in seed funding from Equitable Bank, Oakwest Corporation Limited, and notable individual investors Roger Martin, John Bitove, and Dan Debow, Borrowell has raised a total of $117.2M in funding over seven rounds. Their latest funding was raised in March 2021, from a Series C round. Borrowell is funded by 25 investors, which includes Silicon Valley Bank, White Star Capital, BDC Capital, and Kensington Capital Partners Limited are the most recent investors. 
 
   ![Screenshot 2021-08-20 003905](https://user-images.githubusercontent.com/87621135/130180082-14be8576-441a-44a5-bebc-dc9e579a8323.jpg)
 
@@ -16,7 +16,7 @@ Started with only $5.4 million in seed funding from Equitable Bank, Oakwest Corp
 
 As highlighted earlier, Borrowell is considered one of the significant online lenders present in Canada today. By offering free credit scores, education, and weekly credit monitoring to its subscribers, Borrowell targets a simple objective of helping Canadians make better decisions about their credit.
 
-As quoted by one of the founders, "In talking to consumers every day, we came to realize that many Canadians don't know their current credit score or how to improve it," said Andrew Graham, CEO, Borrowell. He further added, "The reality is that lenders across the country use credit scores to decide who qualifies for loans and at what price. By providing Canadians with their scores and educational resources on how to improve them, Canadians will have better options when it comes to accessing credit (Borrowell, 2021)." 
+As quoted by one of the founders, "In talking to consumers every day, we came to realize that many Canadians don't know their current credit score or how to improve it," said Andrew Graham, CEO, Borrowell. He further added, "The reality is that lenders across the country use credit scores to decide who qualifies for loans and at what price. By providing Canadians with their scores and educational resources on how to improve them, Canadians will have better options when it comes to accessing credit." <sup>[2](#myfootnote2)</sup> 
 
 Thus, Borrowell is not only aiming to target the problem of creating more credit awareness, but with the adaptation of automated network and data, it can offer solutions in the form of products such as loans, savings accounts, and other financial tools tailored to each customer's unique goals and credit profile. Borrowell, unlike payday lenders, serves good credit Canadians who may be looking for better alternatives to high interest credit cards and inconvenient bank loans. Borrowell has already attracted around 1.6 million subscribers and average monthly website traffic of 1.5 million visitors. The digital lending platform has a market size valued at USD 4.87 billion in 2020 and is expected to expand at a compound annual growth rate (CAGR) of 24.0% from 2021 to 2028.
 
