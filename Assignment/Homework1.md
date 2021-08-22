@@ -122,15 +122,15 @@ One can argue that Borrowell is just as secure as the traditional bank. Still, g
 
 <a name="myfootnote8">8</a>: Collection Hub. 2021. 6 Trends That Are Transforming Credit Risk Management. https://collectionhub.com/6-trends-that-are-transforming-credit-risk-management/ <br/>
 
-<a name="myfootnote9">9</a>: 2021. 5 Trends Transforming Commerce.https://usa.visa.com/visa-everywhere/innovation/5-digital-payment-trends-transforming commerce.html. <br/>
+<a name="myfootnote9">9</a>: 2021. 5 Trends Transforming Commerce. https://usa.visa.com/visa-everywhere/innovation/5-digital-payment-trends-transforming commerce.html. <br/>
 
 <a name="myfootnote10">10</a>: Eurodns.com. 2021. 10 popular domains for the finance industry - EuroDNS. https://www.eurodns.com/blog/10-popular-domains-finance-industry <br/>
 
-<a name="myfootnote11">11</a>: Voigt, K., 2021. What Is Blockchain and How Does It Work? - NerdWallet.  https://www.nerdwallet.com/article/investing/blockchain <br/>
+<a name="myfootnote11">11</a>: Voigt, K., 2021. What Is Blockchain and How Does It Work? - NerdWallet. https://www.nerdwallet.com/article/investing/blockchain <br/>
 
-<a name="myfootnote12">12</a>: 2021. Cyber and Technology | Nsure Insurance.https://nsureinsurance.co.uk/services/cyber-and-technology/ <br/>
+<a name="myfootnote12">12</a>: 2021. Cyber and Technology | Nsure Insurance. https://nsureinsurance.co.uk/services/cyber-and-technology/ <br/>
 
-<a name="myfootnote13">13</a>: 2021. Borrowell - White Star Capital.https://whitestarcapital.com/companies/borrowell/ <br/>
+<a name="myfootnote13">13</a>: 2021. Borrowell - White Star Capital. https://whitestarcapital.com/companies/borrowell/ <br/>
 
 <a name="myfootnote14">14</a>: Iruretagoyena, A. and Parrish, P., 2021. Borrowell: Why We Invested — IMPACT ENGINE. https://www.theimpactengine.com/bloghome/2021/2/28/borrowell-why-we-invested <br/>
 
