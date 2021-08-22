@@ -47,12 +47,16 @@ Other companies under these domains are :
 *	Amigo Loans, founded in 2005, is considered UK's largest guarantor loan company. Amigo Loans aims to make borrowing possible and more accessible for people who are otherwise excluded from this option by mainstream lending providers. With its set-up, Amigo can offer feasible alternatives to high-cost loans, such as payday loans and other forms of non-standard finance. 
 *	Pioneer Credit, a financial services provider, operates and is available to customers in Australia and New Zealand. The Company is highly focused on providing customers and users with exceptional levels of customer service and a range of products and solutions to help them achieve their financial goals. Customers can access these services through the web and the free app, Pioneer Path, and Pioneer's intuitive customer portal. 
 
+![Competitors](https://user-images.githubusercontent.com/87621135/130341062-b30c0859-fcfb-40a9-808e-e06e5116f8e4.jpg)
+
 
 ## Results
 
 Most Canadians live paycheck to paycheck, and about 33% find it challenging to pay off their credit card debt. Borrowell's central goal is to address this situation by giving Canadians the tools they need to improve their credit score, discover and access better financial products, spend wisely, and save effortlessly. A point to note is that Canadians' digital adoption of Fintech is still less than half that of other markets of a similar size., but Borrowell is changing this. By providing free credit scores and access to relevant financial products, the Company has established itself as a trusted adviser to its Canadian customers.
 
 Most recently, Borrowell has completed the acquisition of Refresh Financial, a leader in providing underserved Canadians with long-term access to affordable and sustainable credit, and raised $25 million in funding for the purchase and to support future growth. The acquisition doubles Borrowell's revenue and employee base. New investors in the $25 million round include Kensington Capital Partners, BDC Capital, iA Financial Group, and Impact Engine, a Chicago-based social impact-focused investment fund. New funding was also provided by existing investors Portag3 Ventures, White Star Capital, National Bank of Canada's NAventures, and Equitable Bank. This brings Borrowell's total equity financing to $55 million and accelerates its mission to help Canadians build their credit, make smart financial decisions, and achieve financial stability.
+
+![Market Position](https://user-images.githubusercontent.com/87621135/130341080-036a0bb4-a89a-4e45-8a92-2acffb446a86.jpg)
 
 53% of Borrowell users have less than 659, and a Refresh Financial client's average starting credit score is 500. However, through engagement with the Borrowell platform, users can improve their credit score by demonstrating 171+ points in 24 months. Borrowell has already shown its ability to establish financial prosperity for its user base by raising its users' credit scores, lowering their cost of borrowing, making budgeting more manageable, and increasing their savings. This acquisition and round of funding will amplify that impact by allowing the Company to serve more non-prime credit seekers and offer a broader range of products and services to meet the diverse needs of each user.
 
@@ -123,3 +127,6 @@ One can argue that Borrowell is just as secure as the traditional bank. Still, g
 * 2021. About Mogo | Mogo.https://www.mogo.ca/about-mogo
 * 2021. About | Pioneer Credit. https://pioneercredit.com.au/about-us
 * 2021. Press Room | Amigo Loans. https://www.amigoloans.co.uk/press-room
+
+<sup>[1](#myfootnote1)</sup>
+ <a name="myfootnote1">1</a>: Footnote content goes here <br/>
